@@ -1,0 +1,15 @@
+﻿  Player.cpp
+D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\src\Player.cpp(34,51): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\src\Player.cpp(34,48): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\src\Player.cpp(99,20): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\src\Player.cpp(101,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\src\Player.cpp(140,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Template.vcxproj -> D:\Documents\School\GBC\Y2\S1\GAME2005\A2\GAME2005_A2_Ethier_Dunster\bin\Debug\Template.exe
